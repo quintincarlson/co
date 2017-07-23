@@ -1,8 +1,8 @@
-name: quintin carlson
+name: Quintin Carlson
 description: user research and product design
 meta_description: "Portfolio Quintin Carlson; user researcher and product designer"
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
