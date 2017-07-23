@@ -1,7 +1,7 @@
 ---
 title:  Flexport
 description: User Research Product Manager
-## date: Aug 15 2016
+
 ---
 
 Managing international freight logistics necessitates living in a complex world of complexity. Flexport provides visibility, transparency, and consistency that keeps the shelves stocked for your favorite products. With detailed research, perfect designs, and near-flawless execution we deliver on our promise of being a freight forwarder you can love.
